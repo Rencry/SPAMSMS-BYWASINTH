@@ -7,7 +7,7 @@ by wasin
 
 2 cd SPAMSMS-BYWASINTH
 
-3 python main py
+3 python main.py
 
 FB https://www.facebook.com/share/1CTLYE6Wpk/
 
