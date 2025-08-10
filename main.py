@@ -902,7 +902,6 @@ def HYPRES(phone, amount):
 		threading.submit(api71, phone)
 		threading.submit(api74, phone)
 		
-		threading.submit(api76, phone)
 		threading.submit(api77, phone)
 		threading.submit(apicall, phone)
 		threading.submit(api80, phone)
@@ -943,4 +942,4 @@ def HYPRES(phone, amount):
 
 		
 		
-HYPRE(เบอร์โทร, จำนวน)
+HYPRE()
