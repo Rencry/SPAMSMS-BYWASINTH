@@ -943,4 +943,4 @@ def HYPRES(phone, amount):
 
 		
 		
-HYPRE()
+HYPRE(เบอร์โทร, จำนวน)
