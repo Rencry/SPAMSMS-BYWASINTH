@@ -3,7 +3,7 @@ by wasin
 
 วิธีการติดตั้ง 
 
-1 git clone https://github.com/Rencry/SPAMSMS-BYWASINTH-git
+1 git clone https://github.com/Rencry/SPAMSMS-BYWASINTH
 
 2 cd SPAMSMS-BYWASINTH
 
