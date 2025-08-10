@@ -900,8 +900,8 @@ def HYPRES(phone, amount):
 		threading.submit(api69, phone)
 		threading.submit(api70, phone)
 		threading.submit(api71, phone)
-		threading.submit(api74, phone)
-		
+		threading.submit(api74, phone)		
+		threading.submit(api76, phone)
 		threading.submit(api77, phone)
 		threading.submit(apicall, phone)
 		threading.submit(api80, phone)
@@ -922,7 +922,6 @@ def HYPRES(phone, amount):
 		threading.submit(api95, phone)
 		threading.submit(api96, phone)
 		threading.submit(api97, phone)
-		
 		threading.submit(api98, phone)
 		threading.submit(api99, phone)
 		threading.submit(api100, phone)
@@ -940,6 +939,7 @@ def HYPRES(phone, amount):
 		threading.submit(api111, phone)
 
 
+		
 		
 		
 HYPRE()
