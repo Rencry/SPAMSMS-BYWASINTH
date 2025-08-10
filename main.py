@@ -42,7 +42,7 @@ def HYPRE():
 	print("")
     
 	ui = """
- BY WADIN TH👽
+ BY WASIN TH👽
 
 """
 	from rgbprint import gradient_print, Color
@@ -941,7 +941,6 @@ def HYPRES(phone, amount):
 		threading.submit(api111, phone)
 
 
-		
 		
 		
 HYPRE()
